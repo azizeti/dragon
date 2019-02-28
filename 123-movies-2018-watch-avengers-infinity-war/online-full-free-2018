@@ -1,0 +1,25 @@
+{
+    "name": "123-movies-2018-watch-avengers-infinity-war/online-full-free-2018",
+    "description": "123MOVIES-HD!!-WATCH AVENGERS: INFINITY WAR FULL MOVIE ONLINE STREAMING FREE HD",
+    "homepage": "https://github.com/sintings/tololol",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE NOW",
+            "email": "yossayossi9@gmail.com",
+            "homepage": "http://movielova.club/movie/299536/avengers-infinity-war.html",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "require": {
+        "symfony/dom-crawler": "^3.3",
+        "symfony/css-selector": "^3.3"
+    },
+    "minimum-stability": "dev"
+}
